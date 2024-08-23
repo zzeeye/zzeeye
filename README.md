@@ -1,6 +1,6 @@
 # Welcome! Thank you for visiting the GitHub of web developer zzeeye. 
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=welcome%20hi!&color=auto&height=300&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&text=welcome%20hi!&color=auto&height=300&section=header&fontSize=90&fontAlign=50&fontAlignY=40)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=welcome%20hi!&fontAlign=50&fontAlignY=40&color=auto)
 
