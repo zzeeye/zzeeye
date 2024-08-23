@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=welcome%20hi!&color=auto&height=300&section=header&fontSize=90)
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=welcome%20hi!&fontAlign=50&fontAlignY=40&color=gradient&color=auto)
+![header](https://capsule-render.vercel.app/api?type=waving&text=welcome%20hi!&fontAlign=50&fontAlignY=40&color=auto,auto)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=welcome%20hi!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0:blue,100:green)
 
